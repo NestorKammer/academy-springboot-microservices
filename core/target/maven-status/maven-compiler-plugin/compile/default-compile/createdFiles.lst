@@ -1,0 +1,11 @@
+academy\nestorkammer\microservices\core\property\JwtConfiguration.class
+academy\nestorkammer\microservices\core\repository\ApplicationUserRepository.class
+academy\nestorkammer\microservices\core\repository\CourseRepository.class
+academy\nestorkammer\microservices\core\model\ApplicationUser$ApplicationUserBuilder.class
+academy\nestorkammer\microservices\core\property\JwtConfiguration$Header.class
+academy\nestorkammer\microservices\core\docs\BaseSwaggerConfig.class
+academy\nestorkammer\microservices\core\model\Course.class
+academy\nestorkammer\microservices\core\model\AbstractEntity.class
+academy\nestorkammer\microservices\core\model\ApplicationUser.class
+academy\nestorkammer\microservices\core\model\Course$CourseBuilder.class
+META-INF\spring-configuration-metadata.json
